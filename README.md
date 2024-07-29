@@ -35,8 +35,8 @@ The above image or screenshot explains when we want to add more tasks then we ha
 
 
  <br>
- This above image shows when you click edit symbol which is present in the status section,it opens a pop up menu which allows you to change or modify the task . 
-![image](https://github.com/user-attachments/assets/101477e2-2ac3-433f-91fc-13aa36867d44).
+ This above image shows when you click edit symbol which is present in the status section,it opens a pop up menu which allows you to change or modify the task .<br> 
+
 
 
 
